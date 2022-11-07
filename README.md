@@ -1,2 +1,3 @@
 # CTF-Recon-Tool---RoboCap
 RoboCap
+RoboCap is a tool used for Web/Network Recon and Vulnerability mapping. Basically designed for playing CTFs, can be used for more uses, such as, Vulnerability, scanning, Aggressive Scan based on nmap,Ports Enumeration, HTTP Methods, Exploits, SMB Enumeration, Web Technology’s, SSL Testing, Fuzzing, HTTP Methods with Nikto and much more. It is a great tool for pentesting environments to make things automated and save time in listing vulnerabilities. This tool is also set to run user defined modules and run them such as OWASP vulnerabilities, fingerprinting, DNS, Samba, and even AD.
